@@ -1,0 +1,2 @@
+# RiceSettings
+My BSPWM Settings
