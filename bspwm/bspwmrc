@@ -2,7 +2,7 @@
 
 pgrep -x sxhkd > /dev/null || sxhkd &
 
-bspc monitor -d I II III IV V VI VII VIII IX X
+bspc monitor -d I II III IV V VI VII
 
 bspc config border_width         2
 bspc config window_gap          12
@@ -36,8 +36,7 @@ sh ~/.screenlayout/monitor.sh &
 nitrogen --restore &
 # Dex
 dex -a -s /etc/xdg/autostart/:~/.config/autostart/  
-# Picom & Compton
-compton &
+# Picom
 picom &
 # Network Applet
 nm-applet --indicator &
