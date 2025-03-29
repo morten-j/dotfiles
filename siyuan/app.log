@@ -1,0 +1,16 @@
+2025-02-22 06:46:56 app is packaged [true], command line args [/usr/lib/electron33/electron, /usr/lib/siyuan-note/app, env, ELECTRON_OZONE_PLATFORM_HINT=auto]
+2025-02-22 06:46:56 command line switch [/usr/lib/siyuan-note/app]
+2025-02-22 06:46:56 command line switch [env]
+2025-02-22 06:46:56 command line switch [ELECTRON_OZONE_PLATFORM_HINT=auto]
+2025-02-22 06:47:36 got kernel port [39959]
+2025-02-22 06:47:36 ui version [3.1.22], booting kernel [/usr/lib/siyuan-note/kernel/SiYuan-Kernel --port 39959 --wd /usr/lib/siyuan-note --workspace /home/morte/SiYuan --lang en_US]
+2025-02-22 06:47:36 booted kernel process [pid=70597, port=39959]
+2025-02-22 06:47:36 checking kernel version
+2025-02-22 06:47:36 got kernel version [3.1.22]
+2025-02-22 06:47:36 read window state failed: Error: ENOENT: no such file or directory, open '/home/morte/.config/siyuan/windowState.json'
+2025-02-22 06:47:36 window stat [x=0, y=0, width=1404, height=878], default [x=0, y=0, width=1404, height=878], old [x=undefined, y=undefined, width=undefined, height=undefined], workArea [width=1756, height=1098]
+2025-02-22 06:47:36 window position [x=0, y=0]
+2025-02-22 06:47:37 window.siyuan.config.keymap.general is not found
+2025-02-22 06:47:37 window.siyuan.config.keymap.editor is not found
+2025-02-22 06:47:37 update keymap
+2025-02-22 06:47:58 exited ui
